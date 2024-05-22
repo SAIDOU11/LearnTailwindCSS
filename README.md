@@ -1,2 +1,3 @@
-# LearnTailwindCSS
- LearnTailwindCSS
+# Learn Tailwind CSS
+
+- Learn Tailwind CSS
